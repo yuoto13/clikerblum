@@ -1,4 +1,4 @@
-# Crypto Clickers Hub
+# Kiryshka Clickers
 
 ## Описание
 
